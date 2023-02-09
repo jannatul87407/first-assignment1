@@ -172,3 +172,67 @@
 
     color: #FFFFFF;
 }
+
+/* subscribe-part */
+.subscribe-contract {
+    display: flex;
+    justify-content: space-between;
+
+    height: 577px;
+    left: 0px;
+    top: 2646.3px;
+    background: #151414;
+    padding-top: 130px;
+    padding-left: 230px;
+    margin-top: 100px;
+}
+
+.subscribe-title {
+    color: #F8F8F8;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+
+}
+
+.subscribe-description {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.subscribe-mail {
+    color: #FFFFFF;
+}
+
+.subscribe-contact {
+    color: #FFFFFF;
+
+}
+
+.subscription-form {
+    padding-right: 230px;
+    padding-left: 330px;
+}
+
+.subscription-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.form {
+    width: 325px;
+    padding: 25px 25px 25px 25px;
+    background: #151414;
+    color: #F3F3F3;
+    border-radius: 5px;
+
+
+}
